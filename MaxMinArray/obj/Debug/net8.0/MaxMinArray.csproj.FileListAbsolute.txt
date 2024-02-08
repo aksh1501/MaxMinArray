@@ -1,0 +1,14 @@
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\bin\Debug\net8.0\MaxMinArray.exe
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\bin\Debug\net8.0\MaxMinArray.deps.json
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\bin\Debug\net8.0\MaxMinArray.runtimeconfig.json
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\bin\Debug\net8.0\MaxMinArray.dll
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\bin\Debug\net8.0\MaxMinArray.pdb
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.AssemblyInfoInputs.cache
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.AssemblyInfo.cs
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.csproj.CoreCompileInputs.cache
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.dll
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\refint\MaxMinArray.dll
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.pdb
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\MaxMinArray.genruntimeconfig.cache
+c:\Users\akshi\OneDrive\Pictures\MaxMinArray\MaxMinArray\obj\Debug\net8.0\ref\MaxMinArray.dll
